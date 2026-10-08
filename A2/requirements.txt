@@ -1,0 +1,6 @@
+# The mcp extra is required by AISuite 0.2.0's tool-dispatch imports.
+# This lab uses only local Python tools and does not start an MCP server.
+aisuite[openai,mcp]==0.2.0
+python-dotenv>=1.0,<2
+ipykernel>=6,<8
+notebook>=7,<8
