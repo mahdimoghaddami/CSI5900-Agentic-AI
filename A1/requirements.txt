@@ -1,0 +1,5 @@
+aisuite>=0.1.11
+openai>=1.60.0
+python-dotenv>=1.0.0
+ipython>=8.10.0
+notebook>=7.0.0
