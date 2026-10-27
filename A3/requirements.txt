@@ -1,0 +1,6 @@
+# AISuite 0.2.0 imports its tool-dispatch dependencies even for text-only calls.
+# This lab uses no MCP server; the extra supplies import-time dependencies.
+aisuite[openai,mcp]==0.2.0
+python-dotenv>=1.0,<2
+ipykernel>=6,<8
+notebook>=7,<8
